@@ -1,0 +1,21 @@
+EmployeeID,FullName,Department,Role,Salary,Email,Phone,Address,HireDate,Status
+1,Ali Khan,,,,ali.khan@company.com,032-43163773,,2020-01-31,
+2,Sara Ahmed,,,,sara.ahmed@company.com,030-41146082,,2020-02-29,
+3,Hassan Raza,nan,Manager,90000.0,hassan.raza@company.com,030-31739356,Islamabad,2020-03-31,Active
+4,Fatima Noor,IT,Executive,90000.0,fatima.noor@company.com,031-29576703,Peshawar,2020-04-30,nan
+5,Usman Tariq,HR,Manager,70000.0,usman.tariq@company.com,031-82429249,Peshawar,2020-05-31,Resigned
+6,Ayesha Saeed,,,,ayesha.saeed@company.com,032-33705256,,2020-06-30,
+7,Bilal Zafar,Marketing,Intern,50000.0,bilal.zafar@company.com,033-87633091,nan,2020-07-31,On Leave
+8,Hina Sheikh,IT,Manager,70000.0,hina.sheikh@company.com,030-65403796,Karachi,2020-08-31,Active
+9,Omar Farooq,,,,omar.farooq@company.com,033-33508102,,2020-09-30,
+10,Zara Iqbal,Operations,Executive,70000.0,zara.iqbal@company.com,032-15853584,Islamabad,2020-10-31,Resigned
+11,Imran Malik,IT,Executive,80000.0,imran.malik@company.com,030-58491183,nan,2020-11-30,On Leave
+12,Nida Javed,Marketing,Assistant,,nida.javed@company.com,033-47856186,nan,2020-12-31,On Leave
+13,Adnan Hussain,Marketing,Intern,50000.0,adnan.hussain@company.com,032-58673237,Islamabad,2021-01-31,Resigned
+14,Mehwish Shah,IT,Executive,80000.0,mehwish.shah@company.com,034-87275698,nan,2021-02-28,nan
+15,Farhan Ali,Marketing,Manager,70000.0,farhan.ali@company.com,032-68245345,Karachi,2021-03-31,On Leave
+16,Sana Yousaf,,,,sana.yousaf@company.com,034-21326237,,2021-04-30,
+17,Rizwan Qureshi,Finance,Intern,80000.0,rizwan.qureshi@company.com,030-71864219,Islamabad,2021-05-31,On Leave
+18,Mahnoor Asif,,,,mahnoor.asif@company.com,030-43255876,,2021-06-30,
+19,Zeeshan Latif,IT,Executive,80000.0,zeeshan.latif@company.com,033-25900476,nan,2021-07-31,Resigned
+20,Rabia Anwar,Marketing,Manager,,rabia.anwar@company.com,032-50820227,nan,2021-08-31,On Leave

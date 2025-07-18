@@ -1,0 +1,21 @@
+EmployeeID,FullName,Department,Role,Salary,Email,Phone,Address,HireDate,Status,Gender,Married,Application_Income
+1,Ali Khan,,,,ali.khan@company.com,032-43163773,,31/01/2020,,male,yes,234
+2,Sara Ahmed,,,,sara.ahmed@company.com,030-41146082,,29/02/2020,,female,yes,567
+3,Hassan Raza,nan,Manager,90000,hassan.raza@company.com,030-31739356,Islamabad,31/03/2020,Active,,no,456
+4,Fatima Noor,IT,Executive,90000,fatima.noor@company.com,031-29576703,Peshawar,30/04/2020,nan,female,no,567
+5,Usman Tariq,HR,Manager,70000,usman.tariq@company.com,031-82429249,Peshawar,31/05/2020,Resigned,male,,432
+6,Ayesha Saeed,,,,ayesha.saeed@company.com,032-33705256,,30/06/2020,,female,no,456
+7,Bilal Zafar,Marketing,Intern,50000,bilal.zafar@company.com,033-87633091,nan,31/07/2020,On Leave,male,no,789
+8,Hina Sheikh,IT,Manager,700000,hina.sheikh@company.com,030-65403796,Karachi,31/08/2020,Active,,no,987
+9,Omar Farooq,,,,omar.farooq@company.com,033-33508102,,30/09/2020,,male,,765
+10,Zara Iqbal,Operations,Executive,70000,zara.iqbal@company.com,032-15853584,Islamabad,31/10/2020,Resigned,female,yes,654
+11,Imran Malik,IT,Executive,800000,imran.malik@company.com,030-58491183,nan,30/11/2020,On Leave,male,no,543
+12,Nida Javed,Marketing,Assistant,,nida.javed@company.com,033-47856186,nan,31/12/2020,On Leave,,,432
+13,Adnan Hussain,Marketing,Intern,500000,adnan.hussain@company.com,032-58673237,Islamabad,31/01/2021,Resigned,,no,321
+14,Mehwish Shah,IT,Executive,80000,mehwish.shah@company.com,034-87275698,nan,28/02/2021,nan,female,yes,235
+15,Farhan Ali,Marketing,Manager,70000,farhan.ali@company.com,032-68245345,Karachi,31/03/2021,On Leave,male,yes,689
+16,Sana Yousaf,,,,sana.yousaf@company.com,034-21326237,,30/04/2021,,female,,809
+17,Rizwan Qureshi,Finance,Intern,80000,rizwan.qureshi@company.com,030-71864219,Islamabad,31/05/2021,On Leave,male,no,456
+18,Mahnoor Asif,,,,mahnoor.asif@company.com,030-43255876,,30/06/2021,,,no,345
+19,Zeeshan Latif,IT,Executive,80000,zeeshan.latif@company.com,033-25900476,nan,31/07/2021,Resigned,male,yes,234
+20,Rabia Anwar,Marketing,Manager,,rabia.anwar@company.com,032-50820227,nan,31/08/2021,On Leave,female,,235

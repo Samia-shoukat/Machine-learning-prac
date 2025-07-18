@@ -1,0 +1,59 @@
+In machine learning , the following steps we should do to learn:
+
+                                       (1)
+
+1: Learn missing values , how to handle it by using pandas, matplpotlib, seaborn
+2: handle numerical value by means 
+3: handle categorical value by mode by scikit-learn 
+
+                                            (2)
+
+now we know how to fill the missing value 
+the second step is encoding
+---> One hot encoding has 2 ways
+1: get dummies -- pandas lib-- give boolean data 
+2: one hot encoder -- scikit learn class -- sparse matrix has 0 1 data
+
+to encode ordinal and nominal data/ categorical data
+use map function etc 
+
+                                           (3)
+
+outlier, the data beyond the boundary may give the error and necessary to remove it 
+  
+                                           (4)
+Feature scaling (standard an normalization)
+
+                                            (5)
+handle duplicate data 
+
+                                             (6)
+
+function tranformer
+
+                                            (7)
+backward and froward elmination 
+
+                                            (8)
+train_test split 
+to train or test aghr aisa data dia jaye jis ka algo na hi to usko kese handle kre ga.
+
+                                             (9)
+types of machine learning 
+1--> supervised learning
+2--> unsepervised learning
+3--> reinforcement learning
+then supervised learning have 
+
+1---> regression learning
+2---> Classification learning
+
+Regression learning have 2 types --> linear and non linear reg 
+1--> simple linear regression have single var and 1 indepe var  y=mx+c  predict the value 
+2--> multilinear regression have 2 or more inputs
+
+3-->polynomial regression 
+
+                                         (10)
+cost Function -->used for best fit regression/classifiation predicted line
+1-->Regression cost function -->MSE,MAE, RMSE
